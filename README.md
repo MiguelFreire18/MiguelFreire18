@@ -21,6 +21,8 @@ Hoy, fusiono estas fuertes bases de diseño tradicional con tecnologías moderna
 
 <br/>
 
+<br/>
+
 <div align="center">
   <a href="https://linkedin.com/in/miguelangelhfreire">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -28,4 +30,10 @@ Hoy, fusiono estas fuertes bases de diseño tradicional con tecnologías moderna
   <a href="mailto:miguelfreire1804@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</div>
+
+</br>
+</br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MiguelFreire18&color=ccff00&style=flat-square&label=VISITAS" alt="Contador de Visitas" />
 </div>
